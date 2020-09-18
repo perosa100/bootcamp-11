@@ -1,0 +1,4 @@
+#Sun Aug 30 08:33:13 CLT 2020
+base.0=C\:\\Users\\Perosa\\Desktop\\dev\\rockeaseat\\GoStack Bootcamp 11\\curso\\principal\\mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
